@@ -81,11 +81,6 @@
 // import { ArrowRightIcon } from '@heroicons/react/solid';
 
 // const ExploreButton = () => {
-//   return (
-//     <div>
-//       <button className="relative flex items-center px-6 py-2 bg-white text-black border-2 border-red-500 rounded-md shadow-md transform transition duration-300 hover:bg-red-500 hover:text-white hover:translate-y-1 hover:shadow-lg">
-//         <span className="relative z-10">Explore More</span>
-//         <ArrowRightIcon className="ml-2 w-5 h-5 text-red-500 transition-transform duration-300 transform translate-x-0 opacity-0 hover:opacity-100 hover:translate-x-1" />
 
 
 import React from 'react';

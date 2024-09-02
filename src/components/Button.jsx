@@ -25,12 +25,6 @@
 // import { FiArrowUpRight } from 'react-icons/fi';
 
 // const Button = () => {
-//   return (
-//     <div className='relative inline-block bg-white px-[26px] py-[13px] text-[#2B2B2B] text-[16px] font-semibold leading-6 capitalize rounded-[4px] max-w-[180px] border-2 border-transparent hover:bg-red-500 transition-colors duration-300'>
-//       <div className='absolute inset-0 border-l-8 border-b-8 border-red-500 rounded-[4px] transform translate-x-[30px] translate-y-[20px] hover:translate-x-0 hover:translate-y-0 transition-transform duration-300'></div>
-//       <div className='relative z-10 flex items-center justify-between'>
-//         <span className='whitespace-pre'>Explore More</span>
-
 
 import React from 'react';
 

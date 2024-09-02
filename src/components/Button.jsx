@@ -39,12 +39,7 @@
 // export default Button;
 
 
-// import React from 'react';
-// // import Btn from '../components/Btn.css'
-// // import Btn from './Btn.css'
-// import { FiArrowRight } from 'react-icons/fi';
 
-// const Button = () => {
 
 
 

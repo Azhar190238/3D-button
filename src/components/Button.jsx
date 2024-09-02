@@ -64,12 +64,6 @@
 
 // const Button = () => {
 //   return (
-//     <div>
-//       <button className="flex items-center px-6 py-2 bg-white text-black border-2 border-red-500 rounded-md transition duration-300 hover:bg-red-500 hover:text-white hover:border-red-500">
-//         Explore More 
-//         <span className="ml-2 transition-transform duration-300 transform hover:translate-x-1">
-//           →
-//         </span>
 
 
 

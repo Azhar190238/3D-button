@@ -20,11 +20,6 @@
 //   );
 // };
 
-// export default Button;
-// import React from 'react';
-// import { FiArrowUpRight } from 'react-icons/fi';
-
-// const Button = () => {
 
 import React from 'react';
 

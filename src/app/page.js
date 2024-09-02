@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="">
 
-      <div className="mx-auto max-w-[1320px] "> 
+      <div className="mx-auto max-w-[1320px] bg-[#D9D9D9] h-[700px] pt-20 "> 
         <Button></Button>
       </div>
 

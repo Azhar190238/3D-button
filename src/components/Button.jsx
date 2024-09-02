@@ -45,14 +45,7 @@
 // import { FiArrowRight } from 'react-icons/fi';
 
 // const Button = () => {
-//   return (
-   
-      
-   
-//       <div className="wrap flex ">
-//         <p>Explore More</p>
-//         <FiArrowRight className="text-red-500 ml-2 mt-1" />
-//       </div>
+
 
 
 

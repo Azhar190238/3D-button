@@ -70,10 +70,6 @@
 //         <span className="ml-2 transition-transform duration-300 transform hover:translate-x-1">
 //           →
 //         </span>
-//       </button>
-//     </div>
-//   );
-// };
 
 
 

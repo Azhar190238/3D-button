@@ -30,11 +30,7 @@
 //       <div className='absolute inset-0 border-l-8 border-b-8 border-red-500 rounded-[4px] transform translate-x-[30px] translate-y-[20px] hover:translate-x-0 hover:translate-y-0 transition-transform duration-300'></div>
 //       <div className='relative z-10 flex items-center justify-between'>
 //         <span className='whitespace-pre'>Explore More</span>
-//         <FiArrowUpRight className='text-red-500 ml-2' />
-//       </div>
-//     </div>
-//   );
-// };
+
 
 import React from 'react';
 

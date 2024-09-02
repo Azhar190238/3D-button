@@ -1,11 +1,6 @@
 // import React from 'react';
 
 // const Button = () => {
-//     return (
-//         <div className='bg-[#fff] px-[26px] py-[13px] text-[#2B2B2B] text-[16px] font-semibold leading-6 capitalize rounded-[4px] m-96 max-w-[170px]'>
-//            <h2>Explore more</h2> 
-//         </div>
-
 
 import React from 'react';
 

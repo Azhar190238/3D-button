@@ -75,12 +75,7 @@
 //   );
 // };
 
-// export default Button;
 
-
-// import { ArrowRightIcon } from '@heroicons/react/solid';
-
-// const ExploreButton = () => {
 
 
 import React from 'react';

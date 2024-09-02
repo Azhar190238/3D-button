@@ -53,11 +53,7 @@
 //         <p>Explore More</p>
 //         <FiArrowRight className="text-red-500 ml-2 mt-1" />
 //       </div>
-  
-//   );
-// };
 
-// export default Button;
 
 
 
